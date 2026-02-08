@@ -3,6 +3,8 @@ Hi 👋, I am Simon, a Year 1 Masters Student at Linköping University, Sweden
 - 🎓 BSc in Computer Engineering | KTH Royal Institute of Technology
 - 🤖 Artificial Intelligence
 - 💻 Machine Learning (ML)
+- 🌐 Distributed Systems
+- ☁️ Cloud
 
 ## 🚀 Projects
 
