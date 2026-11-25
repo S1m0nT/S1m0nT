@@ -1,4 +1,4 @@
-Hi 👋, I am Simon, a Year 1 Masters Student at Linköping University, Sweden
+Hi 👋, I am Simon, a Year 2 Masters Student at Linköping University, Sweden
 - 📚 MSc in Computer Science Student 
 - 🎓 BSc in Computer Engineering | KTH Royal Institute of Technology
 - 🤖 Artificial Intelligence
